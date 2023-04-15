@@ -3,9 +3,9 @@
 The goal of this project is to develop a hotel recommendation system for travelers visiting Maldives using online reviews to identify positive sentiment topics. The primary objective is to provide personalized recommendations to travelers, considering their preferences and needs.  
 
 
-The model that will be developed is a machine learning model that uses natural language processing techniques such as sentiment analysis and topic modeling to extract relevant information from online reviews. The model will then use this information, along with user data and input, to recommend hotels that match the user's preferences. 
+The model that will be developed is a machine learning model that uses natural language processing techniques such as sentiment analysis and topic modeling to extract relevant information from online reviews. The model will then use this information, along with user input, to recommend hotels that match the user's preferences. 
 
-The evaluation will be conducted by comparing the hotel recommendations provided by the model to the user's actual hotel choices and the ratings and reviews provided by the user after their stay.  
+The evaluation will be conducted by comparing the hotel recommendations provided by the model to the user's actual hotel choices and the ratings and reviews provided by the user.  
 
 The scope of the project will be limited to Maldives, with the aim of providing personalized recommendations to travelers visiting that city.   
 
