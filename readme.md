@@ -16,10 +16,10 @@ The audience for this project is the general public, and the primary stakeholder
 By considering the audience and primary and secondary stakeholders, this project can deliver a valuable service that meets the needs of travelers while creating value for stakeholders.
 
 ### Timeline
-by 06 May finish the scraping   
+06 May finish the scraping   
 
-by 13 May complete the EDA and Modeling   
+13 May complete the EDA and Modeling   
 
-by 20 May finish the report write
+20 May finish the report write
 
-23May is the f
+23May will be the start of the first presentation
