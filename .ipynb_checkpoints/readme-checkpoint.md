@@ -9,11 +9,7 @@ The evaluation will be conducted by comparing the hotel recommendations provided
 
 The scope of the project will be limited to Maldives, with the aim of providing personalized recommendations to travelers visiting that city.   
 
-This project is important as it addresses the challenge of providing relevant and personalized hotel recommendations to travelers, which can enhance their travel experience. This project is also relevant to stakeholders such as Tripadvisor, which can increase their value proposition as a reliable and trusted online review platform.  
-
-The audience for this project is the general public, and the primary stakeholder is Tripadvisor. Other stakeholders include hotel booking websites and hotel chains, which can benefit from better understanding traveler preferences and offering more relevant recommendations.  
-
-By considering the audience and primary and secondary stakeholders, this project can deliver a valuable service that meets the needs of travelers while creating value for stakeholders.
+This project is important as it addresses the challenge of providing relevant and personalized hotel recommendations to travelers, which can enhance their travel experience. This project is also relevant to stakeholders such as Tripadvisor, which can increase their value proposition as a reliable and trusted online review platform. Other stakeholders include hotel booking websites and hotel chains, which can benefit from better understanding traveler preferences and offering more relevant recommendations. This project can deliver a valuable service that meets the needs of travelers while creating value for stakeholders.
 
 ### Timeline
 06 May finish the scraping about 200 properties   
